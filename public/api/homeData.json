@@ -1,0 +1,75 @@
+{
+    "success": true,
+    "data": {
+           
+            "recommendList":[{
+                "id": 1,
+                "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+            }, {
+                "id": 2,
+                "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+            }, {
+                "id": 3,
+                "imgUrl":"https://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+            }, {
+                "id": 4,
+                "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+            }, {
+                "id": 5,
+                "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+            }],
+            "articleList":[{
+                "id": 1,
+                "title": "三生三世枕上书[续写了(十五)",
+                "imgUrl": "https://upload-images.jianshu.io/upload_images/12915256-b0395b5a7777f024.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+                "des": "(48)等到沧夷醒过来，他已经在沧夷神宫了，他抬了抬头，好一会儿才反应过来，自己竟然还活着，不知道是东华帝君有意留自己一命，还是怕凤九会伤心，想..."
+            }, {
+                "id": 2,
+                "title": "“女人在什么条件下，容易跟别的男人发生关系？”最真实的回答",
+                "imgUrl": "https://upload-images.jianshu.io/upload_images/2771518-13ff5dd3e9442d4f.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+                "des": "每个人活在世界上都会有他的个人特色。就好像有些女人可以接受很多男人，但是有些女人的一辈子就只想着跟一个男人在一起。这是她们观念和思想上的差异，我..."
+            }, {
+                "id": 3,
+                "title": "Day1 PoC试运行第一天，你分到几kuo钻",
+                "imgUrl": "https://upload-images.jianshu.io/upload_images/14715425-428174024250ddb7.jpeg!thumbnail?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+                "des": "11月15日0点开始，简书社群PoC试运行正式上线，简书用户每天可以瓜分10000简书钻。 今天最期待的事就是看到《简书钻每日发放公告》了，搓搓..."
+            }, {
+                "id": 4,
+                "title": "手账丨十月页面",
+                "imgUrl": "https://upload-images.jianshu.io/upload_images/3409672-d7d4495ee8aabed2.png?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+                "des": "这个月的页面比较简单，之前想做的事情很多，很多都没有做好，这个月简单一些，就是看书、画画、写写字。 一 形象页 临摹了简笔画群里的，很喜欢这幅画..."
+            }, {
+                "id": 5,
+                "title": "关于大学宿舍，你必须知道的一些东西",
+                "imgUrl": "https://upload-images.jianshu.io/upload_images/13628803-1d67fe259d7df99c?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+                "des": "01：室友不等于好朋友 别对室友期望太高 大学如果你没有参加学生组织或者社团，你的圈子会很小，基本上只会与室友打交道。但是别对你的舍友抱有太高期..."
+            }],
+            "writerList":[{
+                "id": 1,
+                "name": "胡一桶",
+                "desc": "写了245k字 · 9.8k喜欢",
+                "imgUrl": "https://upload.jianshu.io/users/upload_avatars/8781442/79bf6acc-5dd3-49d1-9e2b-6c58066c1442.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+            },{
+                "id": 2,
+                "name": "红瑀",
+                "desc": "写了289.7k字 · 10.9k喜欢",
+                "imgUrl": "https://upload.jianshu.io/users/upload_avatars/2844887/cf3b6f90-774a-4ea7-9e59-b29f2f4b7ad6.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+            },{
+                "id": 3,
+                "name": "王老师八卦美术史",
+                "desc": "写了140k字 · 908喜欢",
+                "imgUrl": "https://upload.jianshu.io/users/upload_avatars/2564926/88bfdbeeb083.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+            },{
+                "id": 4,
+                "name": "江波_偶遇科学",
+                "desc": "写了263.1k字 · 1.3k喜欢",
+                "imgUrl": "https://upload.jianshu.io/users/upload_avatars/4802366/4f86b75d-b61b-4126-8be4-87a151c9cd28.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+            },{
+                "id": 5,
+                "name": "小托夫",
+                "desc": "写了245k字 · 9.8k喜欢",
+                "imgUrl": "https://upload.jianshu.io/users/upload_avatars/2594450/a5bbf755-a88e-42da-9eb7-eb4c0e895683.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+            }
+        ]
+    }
+}
